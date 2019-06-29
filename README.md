@@ -1,6 +1,6 @@
-Google VR Walking Character Controller
-GvrWalkingCharacterController.cs
-By Sam Halperin
+# Google VR Walking Character Controller
+## GvrWalkingCharacterController.cs
+### By Sam Halperin
 
 This script allows the user to walk around a VR scene
 by swiping over the control surface of the GVR remote
@@ -11,6 +11,6 @@ in a working GVR project,
 (see: https://developers.google.com/vr/develop/unity/controller-support)
 or start with the GVR HelloVR demo scene.
 
-See also:
+### See also:
 * Gvr reference docs:
 * https://developers.google.com/vr/reference/unity/class/GvrControllerInput
