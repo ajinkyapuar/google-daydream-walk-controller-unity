@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/GvrWalkingDemo.unity
+  isLoaded: 1
+  isActive: 1
