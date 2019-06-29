@@ -2,6 +2,9 @@
 ## GvrWalkingCharacterController.cs
 ### By Sam Halperin
 
+![](controller.png)
+
+
 This script allows the user to walk around a VR scene
 by swiping over the control surface of the GVR remote
 as if it were a d-pad.
