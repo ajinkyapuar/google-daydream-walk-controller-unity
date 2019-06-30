@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GvrWalkingDemo.unity
-    guid: 01362c607046a4f228072919d797ed46
+    path: Assets/Scenes/HelloVRWithWalkaround.unity
+    guid: dc3342bd874694e94aca77883edf1c72
   m_configObjects: {}

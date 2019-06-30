@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-/Users/sqh/projects/current/daydreamvr-dpad-walkaround/builds/daydream-walk.apk
+/Users/sqh/projects/current/google-vr-daydream-walk-controller/builds/gvr-walk-demo.apk
 SceneListBegin?
-Assets/Scenes/GvrWalkingDemo.unity
+Assets/Scenes/HelloVRWithWalkaround.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 23efcd1831b04ace52b7b3485f150f24 Assembly-CSharp.dll:.GvrDropdown
